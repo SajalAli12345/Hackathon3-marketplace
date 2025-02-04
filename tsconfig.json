@@ -21,7 +21,7 @@
     ],
     "paths": {
       "@/*": ["./src/*"]
-      "@/app/sanity/*": ["./src/sanity/*"]
+      "@/*": ["./src/sanity/*"]
     }
   },
   "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts"],
