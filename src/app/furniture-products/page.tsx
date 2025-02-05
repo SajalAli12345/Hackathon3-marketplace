@@ -5,7 +5,7 @@ const montserrat = Montserrat({ subsets: ["latin"], weight: ["700"] });
 import React, { useEffect, useState } from "react";
 import { Product } from "../../../types/products";
 import { client } from "@/sanity/lib/client";
-import { allProducts, four } from "@/sanity/lib/queries";
+import { allProducts } from "@/sanity/lib/queries";
 import { urlFor } from "@/sanity/lib/image";
 import Link from "next/link";
 import { addToCart } from "../actions/action";
