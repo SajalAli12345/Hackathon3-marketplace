@@ -54,7 +54,7 @@ const Hero = () => {
         <h2
           className={`${montserrat.className} items-center text-center font-bold text-[24px] text-[#252B42] hover:text-blue-500`}
         >
-          EDITOR’S PICK
+          EDITORS PICK
         </h2>
         <p
           className={`${montserrat.className} font-normal text-[14px] text-center text-[#252B42] hover:text-blue-500`}
@@ -296,14 +296,14 @@ const Hero = () => {
             <h4
               className={`${montserrat.className}items-center text-start mb-3  font-normal text-[20px] text-[#252B42] my-3 hover:text-blue-500`}
             >
-              Loudest à la Madison #1 (L'integral)
+              Loudest a la Madison #1 (L integral)
             </h4>
             <h4
               className={`${montserrat.className}items-center text-start font-normal text-sm lg:text-[14px] text-[#737373] mb-4 hover:text-blue-500`}
             >
-              We focus on ergonomics and meeting you where you work. It's only a keystroke away.
+              We focus on ergonomics and meeting you where you work. Its only a keystroke away.
             </h4>
-            <div className="flex justify-between text-xs text-myGrey">
+            <div className="flex justify-between text-xs text-[#737373]">
               <div className="flex items-center gap-2">
                 <FaClock className="text-blue-500" />
                 <h4
@@ -383,7 +383,7 @@ const Hero = () => {
             <h4
               className={`${montserrat.className}items-center text-start mb-3  font-normal text-[20px]  text-[#252B42]  my-3 hover:text-blue-500`}
             >
-              Loudest à la Madison #1 (L'integral)
+              Loudest a la Madison #1 (L integral)
             </h4>
             <h4
               className={`${montserrat.className}items-center text-start font-normal text-sm lg:text-[14px] text-[#737373] mb-4 hover:text-blue-500`}
@@ -468,7 +468,7 @@ const Hero = () => {
             <h4
               className={`${montserrat.className}items-center text-start mb-3  font-normal text-[20px]  text-[#252B42] my-3 hover:text-blue-500`}
             >
-              Loudest à la Madison #1 (L'integral)
+              Loudest a la Madison #1 (L integral)
             </h4>
             <h4
               className={`${montserrat.className}items-center text-start font-normal text-sm lg:text-[14px] text-[#737373] mb-4 hover:text-blue-500`}
