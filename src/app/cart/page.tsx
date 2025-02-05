@@ -9,7 +9,7 @@ import {
 import { Montserrat } from "next/font/google";
 import Swal from "sweetalert2";
 import Image from "next/image";
-import { urlFor } from "@/sanity/lib/image";
+import { urlFor } from "./src/app/sanity/lib/image";
 import { useRouter } from "next/navigation";
 const montserrat = Montserrat({ subsets: ["latin"], weight: ["700"] });
 
