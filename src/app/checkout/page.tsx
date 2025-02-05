@@ -4,7 +4,7 @@ import { Product } from "../../../types/products";
 import { getCartItems } from "../actions/action";
 import Link from "next/link";
 import Image from "next/image";
-import { urlFor } from "@/sanity/lib/image";
+import { urlFor } from "@/app/sanity/lib/image";
 import { CgChevronRight } from "react-icons/cg";
 
 const Checkout = () => {
