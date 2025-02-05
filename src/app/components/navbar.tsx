@@ -7,7 +7,7 @@ import {
   RiYoutubeLine,
   RiArrowDropDownLine,
 } from "react-icons/ri";
-import { CiFacebook, CiSearch, CiHeart } from "react-icons/ci";
+import { CiFacebook, CiHeart } from "react-icons/ci";
 import { SlSocialTwitter } from "react-icons/sl";
 import { BsCart } from "react-icons/bs";
 import { Montserrat } from "next/font/google";
